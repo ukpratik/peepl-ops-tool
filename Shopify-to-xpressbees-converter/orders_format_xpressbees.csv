@@ -1,0 +1,6 @@
+Order ID,Payment Type,Tags,First Name,Last Name,Address 1,Address 2,Phone,City,State,Pincode,Weight(gm),Length(cm),Height(cm),Breadth(cm),Shipping Charges,Discount,SKU(1),Product(1),Quantity(1),Price(1),SKU(2),Product(2),Quantity(2),Price(2)
+Self_ayush_1,Prepaid,,Suman,Kumar,"FLAT NO. 1504, TOWER 3,","UPOHAR LUXURY, 2052 CHAK GARIA",8826317999,KOLKATA,West Bengal,700094,400,10,10,10,,,,,1,309,,,,
+Self_ayush_2,Prepaid,,Ajay Kumar,Gupta,"Ajay kumar gupta, Goyal brothers jainamore ",,8789662218,bokaro,jharkhand ,829301,400,10,10,10,,,,,1,309,,,,
+Self_ayush_3,Prepaid,,Prannoy,Kumar,"C-147, Nalco Nagar",,7008783806,Bhubaneswar,Odisha,751023,400,10,10,10,,,,,1,309,,,,
+Self_ayush_4,Prepaid,,Sujeet Kumar,Arya,"4310A, iocl Township, Paradip",,8447750451,Jagatsinghpur,Odisha,754141,400,10,10,10,,,,,1,309,,,,
+Self_ayush_5,Prepaid,,Sudha,Burnwal,"Flat-202, Mohini Apartment","Vanasthali colony, Bhuiphore, Near Shivam Petrol Pump",9801540130,Dhanbad,jharkhand ,828109,400,10,10,10,,,,,1,309,,,,
